@@ -1,4 +1,3 @@
-# challenge-amigo-secreto
 Proyecto desarrollado como parte del programa Oracle Next Education (ONE).
 
 # Amigo Secreto
@@ -23,7 +22,7 @@ Esta aplicación es ideal para reuniones familiares, entre amigos o en la oficin
 ---
 
 ## Captura de Pantalla
-![Imagen representativa de Amigo Secreto](assets/amigo-secreto.png)
+![Imagen representativa de Amigo Secreto](assets/Imagen%20representativa%20de%20Amigo%20Secreto.png)
 
 ---
 
@@ -37,6 +36,7 @@ git clone https://github.com/tu-usuario/amigo-secreto.git
 
 ## Estructura del Proyecto
 
+```text
 amigo-secreto/
 │
 ├─ index.html       # Estructura principal de la aplicación
@@ -46,6 +46,7 @@ amigo-secreto/
 │   ├─ amigo-secreto.png
 │   └─ play_circle_outline.png
 └─ README.md        # Este archivo
+
 
 ## Uso
 
