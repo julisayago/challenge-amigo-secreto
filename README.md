@@ -46,6 +46,7 @@ amigo-secreto/
 │   ├─ amigo-secreto.png
 │   └─ play_circle_outline.png
 └─ README.md        # Este archivo
+```
 
 
 ## Uso
